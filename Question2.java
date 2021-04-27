@@ -52,7 +52,7 @@ public class Question2 {
 		else
 		{
 			previousCheck = k;
-			return search(k + k/2);
+			return search(k + k/2 + 1);
 			
 			
 		}
